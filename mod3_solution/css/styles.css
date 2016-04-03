@@ -10,3 +10,17 @@
 
 	padding:15px;
 }
+
+@media(max-width: 769px){
+
+	.container{
+
+		margin: 15px;
+		padding: 5px;
+	}
+
+	#content-main{
+		padding: 10px;
+	}
+
+}
